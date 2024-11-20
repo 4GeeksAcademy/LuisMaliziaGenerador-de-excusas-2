@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.generador {
+  text-align: center;
+  font-size: 34px;
+  margin-top: 300px;
+}
